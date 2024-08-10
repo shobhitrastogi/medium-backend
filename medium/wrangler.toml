@@ -1,9 +1,9 @@
 name = "medium"
 compatibility_date = "2024-08-09"
 
-# [vars]
-# MY_VAR = "my-variable"
-
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiY2Q2ZjU4MjYtNjUyOC00ZmFkLWI5MWUtMjRiZGU0OTRjYzk3IiwidGVuYW50X2lkIjoiZjI0NTFkOTQzYzY2OTliZjZiZDlmMTYwMjJiMDY4Y2JjMTY0MGY4MWFiMWIxMWYyNjNkMzM1NDU4NjVmNmI0MiIsImludGVybmFsX3NlY3JldCI6IjRiMGIzZTE1LWQ1YjUtNGE3MS04NDZmLWJkMzdjNmRlODBlNyJ9.w1dkBC0RJo5Fw8otZfNPL6CX7ex3wyrV9dzUuEwla6w"
+JWT_SECRET="shobhitisagoodboy"
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
 # id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
